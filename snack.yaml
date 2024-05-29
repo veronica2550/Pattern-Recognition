@@ -1,0 +1,25 @@
+train: /content/Pattern-Recognition/train
+val:  /content/Pattern-Recognition/test
+nc : 20
+names: [
+    'binch',
+    'oreoblack',
+    'oreored',
+    'cushcush',
+    'gosomi',
+    'yegamcheese',
+    'oreothinstaramisu',
+    'oreothinsvanillamooth',
+    'chocchochanchocochip',
+    'chicchoc',
+    'yuginongblueberrytt',
+    'yuginongaroniatt',
+    'yuginongsiguemchitt',
+    'yuginongbananatt',
+    'yuginongplaneyogurtcube',
+    'yuginongbluberryyogurtcube',
+    'yuginongbananayogurtcube',
+    'yuginongddalgiyogurtcube',
+    'finggercheeseblueberry',
+    'finggercheeseorigin'
+]
